@@ -1,0 +1,5 @@
+.venv/
+results/*.txt
+presets/*.json
+__pycache__/
+*.pyc
